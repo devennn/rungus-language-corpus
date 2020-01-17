@@ -1,6 +1,6 @@
 # Rungus Language Corpus
 
-Collection of text of Rungus language
+Collection Rungus language text
 
 ## How are the texts collected?
 -  Web scrapping:
