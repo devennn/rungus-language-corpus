@@ -11,6 +11,11 @@ Collection of text of Rungus language
  
  ## Contribution
  - Everyone are welcome to contribute. Let's talk
+ 
+ ## Source
+ 1) [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
+  - Scrapped dictionary words a-z
+  - Scrapped some sentences that has english translation
 
 ## Disclaimer
 - Text collected maybe from official source or blogpost
