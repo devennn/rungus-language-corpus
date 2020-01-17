@@ -1,11 +1,10 @@
 # Rungus Language Corpus
 
-Collection of text of rungus language
+Collection of text of Rungus language
 
 ## How are the texts collected?
 - Web scrapping:
   - [Scrapy](https://scrapy.org/)
-- Copy and Paste
 
 ## Source
 - [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
@@ -15,4 +14,3 @@ Collection of text of rungus language
 
 ## License
 - MIT
-
