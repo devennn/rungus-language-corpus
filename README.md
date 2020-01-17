@@ -8,14 +8,17 @@ Collection Rungus language text
 - Future plan
   - might try GAN ?
   - manual user input
- 
+
  ## Contribution
  - Everyone are welcome to contribute. Let's talk
- 
+
  ## Source
 - [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
   - Scrapped dictionary words a-z
   - Scrapped some sentences that has english translation
+
+## Overview
+- Total Rungus words: 1757
 
 ## Disclaimer
 - Text collected maybe from official source or blogpost
