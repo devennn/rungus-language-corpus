@@ -3,8 +3,9 @@
 Collection of text of rungus language
 
 ## How are the texts collected?
-- Web scrapping using:
+- Web scrapping:
   - [Scrapy](https://scrapy.org/)
+- Copy and Paste
 
 ## Source
 - [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
