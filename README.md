@@ -13,7 +13,7 @@ Collection of text of Rungus language
  - Everyone are welcome to contribute. Let's talk
  
  ## Source
- 1) [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
+- [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
   - Scrapped dictionary words a-z
   - Scrapped some sentences that has english translation
 
