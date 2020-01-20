@@ -9,19 +9,21 @@ Collection Rungus language text
   - might try GAN ?
   - manual user input
 
- ## Contribution
- - Everyone are welcome to contribute. Let's talk
-
  ## Source
 - [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
   - Scrapped dictionary words a-z
   - Scrapped some sentences that has english translation
+- Note: Source will be listed once the work is done
 
 ## Overview
-- Total Rungus words: 1757
+- Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/Overview.ipynb)
+  - Total Rungus words: 1764
+  - Total English translation words: 1646
+- [Frequency of Rungus words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_overview.csv)
+- [Frequency of English translation words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_eng_translated_overview.csv)
 
-## Disclaimer
-- Text collected maybe from official source or blogpost
+ ## Contribution
+ - Everyone are welcome to contribute. Let's talk...
 
 ## License
 - MIT
