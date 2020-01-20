@@ -17,8 +17,8 @@ Collection Rungus language text
 
 ## Overview
 - Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/Overview.ipynb)
-  - Total Rungus words: 1757
-  - Total English translation words: 1640
+  - Total Rungus words: 1764
+  - Total English translation words: 1646
 - [Frequency of Rungus words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_overview.csv)
 - [Frequency of English translation words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_eng_translated_overview.csv)
 
