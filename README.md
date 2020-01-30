@@ -6,7 +6,6 @@ Collection Rungus language text
 -  Web scrapping:
   - Made custom web crawler with [Scrapy](https://scrapy.org/)
 - Future plan
-  - might try GAN ?
   - manual user input
 
  ## Source
