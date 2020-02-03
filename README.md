@@ -6,15 +6,8 @@ Collection Rungus language text
 -  Web scrapping:
   - Made custom web crawler with [Scrapy](https://scrapy.org/)
 - Future plan
-  - might try GAN ?
   - manual user input
-
- ## Source
-- [Webonary](https://rungus.webonary.org/browse/browse-english-vernacular/?lang=MS)
-  - Scrapped dictionary words a-z
-  - Scrapped some sentences that has english translation
-- Note: Source will be listed once the work is done
-
+  
 ## Overview
 - Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/Overview.ipynb)
   - Total Rungus words: 1764
