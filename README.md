@@ -4,9 +4,8 @@ Collection Rungus language text
 
 ## How are the texts collected?
 -  Web scrapping:
-  - Made custom web crawler with [Scrapy](https://scrapy.org/)
 - Future plan
-  - manual user input
+  - manual translate maybe?
   
 ## Overview
 - Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/Overview.ipynb)
@@ -16,7 +15,7 @@ Collection Rungus language text
 - [Frequency of English translation words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_eng_translated_overview.csv)
 
  ## Contribution
- - Everyone are welcome to contribute. Let's talk...
-
+ - Everyone are welcome to contribute.
+ 
 ## License
 - MIT
