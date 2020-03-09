@@ -6,9 +6,9 @@ Collection Rungus language text
 -  Web scrapping:
 - Future plan
   - manual translate maybe?
-  
+
 ## Overview
-- Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/Overview.ipynb)
+- Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/overview.ipynb)
   - Total Rungus words: 1764
   - Total English translation words: 1646
 - [Frequency of Rungus words](https://github.com/devennn/rungus-language-corpus/blob/master/rgs_overview.csv)
@@ -16,6 +16,6 @@ Collection Rungus language text
 
  ## Contribution
  - Everyone are welcome to contribute.
- 
+
 ## License
 - MIT
