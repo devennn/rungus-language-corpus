@@ -1,11 +1,10 @@
 # Rungus Language Corpus
 
-Collection Rungus language text
+Collection of Rungus language text
 
 ## How are the texts collected?
--  Web scrapping:
-- Future plan
-  - manual translate maybe?
+- Web scrapping
+- PDF Book Scrapping
 
 ## Overview
 - Basic corpus overview [notebook](https://github.com/devennn/rungus-language-corpus/blob/master/overview.ipynb)
