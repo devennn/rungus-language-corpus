@@ -13,8 +13,5 @@ Collection of Rungus language text
 - [Frequency of Rungus words](https://github.com/devennn/rungus-language-corpus/blob/master/rungus_vocab.csv)
 - [Frequency of English translation words](https://github.com/devennn/rungus-language-corpus/blob/master/english_vocab.csv)
 
- ## Contribution
- - Everyone are welcome to contribute.
-
 ## License
 - MIT
